@@ -14,6 +14,9 @@ It supports this by automating and monitoring the process of software integratio
 
 DevOps is a truly cross-functional mode of working
 
+![devops](https://user-images.githubusercontent.com/30971809/62235458-4e030880-b3cd-11e9-9071-66b1f877ad2a.png)
+
+
 What is DevOps Not ?
 
 Benefits of DevOps ?

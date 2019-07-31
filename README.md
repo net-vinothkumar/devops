@@ -31,3 +31,8 @@ Benefits of DevOps ?
 
 What are the challenges with DevOps ?
 
+DevOps Tools :
+
+<img width="844" alt="Screen Shot 2019-07-31 at 22 29 43" src="https://user-images.githubusercontent.com/30971809/62245864-c6c08f80-b3e2-11e9-9b36-83d841c5cf87.png">
+
+

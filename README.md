@@ -19,7 +19,7 @@ What is DevOps ?
 a. It's not a tool.\
 b. It's not a technology.\
 c. It's not combining development and operations team.\
-d. It's not automation.\
+d. It's not automation.
 
 What are the phases of DevOps ?
 ![devops](https://user-images.githubusercontent.com/30971809/62235458-4e030880-b3cd-11e9-9071-66b1f877ad2a.png)

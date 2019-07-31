@@ -16,8 +16,8 @@ DevOps is a truly cross-functional mode of working
 
 What is DevOps ?
 
-a. It's not a tool.
-b. It's not a technology.
+a. It's not a tool.\n
+b. It's not a technology.\n
 c. It's not combining development and operations team.
 d. It's not automation.
 

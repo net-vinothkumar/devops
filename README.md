@@ -10,6 +10,9 @@ Before DevOps ?
 Development Team                                   |                         Operation Team        => Silo's
 
 # What is DevOps ?
+
+<img width="1318" alt="Screen Shot 2019-08-02 at 06 46 57" src="https://user-images.githubusercontent.com/30971809/62345153-6d935180-b4f1-11e9-9479-c49be511c5bb.png">
+
  
 "Philosophies" + "Practices" + "Tools"
 

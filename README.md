@@ -1,4 +1,6 @@
-# DevOps = "Continuous Collaboration Communication" = "I Build It I Run It"
+# DevOps = 
+# "Continuous Collaboration Communication" 
+# "I Build It I Run It"
 
 Before DevOps ? 
 

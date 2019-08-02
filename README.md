@@ -1,4 +1,4 @@
-# DevOps = 
+# DevOps 
 # "Continuous Collaboration Communication" 
 # "I Build It I Run It"
 

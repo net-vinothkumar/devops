@@ -46,7 +46,8 @@ a. Continuous Integration Tools.\
 b. Containers Knowledge.\
 c. SysAdmin.\
 d. Security & Monitoring.\
-e. Excellent Communication Skills.
+e. Excellent Communication Skills.\
+f. Unit & Automation Testing.
 
 Tools :
 Source Control (like Git, Bitbucket, Svn, VSTS etc)

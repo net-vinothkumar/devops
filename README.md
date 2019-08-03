@@ -39,4 +39,22 @@ c. It's not combining development and operations team.
 
 <img width="844" alt="Screen Shot 2019-07-31 at 22 29 43" src="https://user-images.githubusercontent.com/30971809/62245864-c6c08f80-b3e2-11e9-9b36-83d841c5cf87.png">
 
+# Typical DevOps Skills :
+
+a. Programming Knowledge - Java, Scala, Kotlin, NodeJs, etc.\
+a. Continuous Integration Tools.\
+b. Containers Knowledge.\
+c. SysAdmin.\
+d. Security & Monitoring.\
+e. Excellent Communication Skills.
+
+Tools :
+Source Control (like Git, Bitbucket, Svn, VSTS etc)
+Continuous Integration (like Jenkins, Bamboo, VSTS )
+Infrastructure Automation (like Puppet, Chef, Ansible)
+Deployment Automation & Orchestration (like Jenkins, VSTS, Octopus Deploy)
+Container Concepts (LXD, Docker)
+Orchestration (Kubernetes, Mesos, Swarm)
+Cloud (like AWS, Azure, GoogleCloud, Openstack)
+
 

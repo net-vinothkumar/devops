@@ -36,7 +36,20 @@ c. It's not combining development and operations team.
 
 # Benefits of DevOps ?
 
+Continuous software delivery\
+Less complexity to manage\
+Happier, more productive teams\
+Faster delivery of features\
+Improved communication and collaboration\
+Early detection and faster correction of defects that helps provide the best services
+
+
 # What are the challenges with DevOps ?
+Infrastructure challenges\
+Overcoming the Dev versus Ops mentality\
+Too much focus on tools\
+Right Skillsets\
+Resistance to change
 
 # DevOps Tools :
 
